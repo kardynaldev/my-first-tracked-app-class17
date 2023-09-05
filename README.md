@@ -11,4 +11,7 @@ create a second snapshot
 understanding branching
 we are working with two branches namely master and dev
 DevOps is interesting and pays well
+i am busy working making changes to my code...
+Let now look at git stashing
+
 
