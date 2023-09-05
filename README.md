@@ -9,3 +9,6 @@ understanding snapshot
 create a second snapshot
 ### this is a comment in MD file added
 understanding branching
+we are working with two branches namely master and dev
+DevOps is interesting and pays well
+
